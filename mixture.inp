@@ -1,0 +1,9 @@
+tolerance 2.0
+filetype pdb
+output methane.pdb
+
+structure met.pdb 
+  number 216
+  inside box 0. 0. 0. 23.8 23.8 23.8 
+end structure
+
