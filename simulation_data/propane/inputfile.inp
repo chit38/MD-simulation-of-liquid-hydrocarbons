@@ -1,0 +1,9 @@
+tolerance 2.0
+filetype pdb
+output propane.pdb
+
+structure prpa.pdb 
+  number 216
+  inside box 0. 0. 0. 30.08 30.08 30.08 
+end structure
+

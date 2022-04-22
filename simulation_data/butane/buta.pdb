@@ -1,0 +1,17 @@
+REMARK   DATE:     2/ 5/21     14:31:58      CREATED BY USER: nathan                  
+ATOM      1  H11 BUT B   1      -2.743  -0.700  -0.000  1.00  0.00      BUTA
+ATOM      2  H12 BUT B   1      -2.117   0.731  -0.902  1.00  0.00      BUTA
+ATOM      3  H13 BUT B   1      -2.117   0.731   0.902  1.00  0.00      BUTA
+ATOM      4  C1  BUT B   1      -1.971   0.099   0.000  1.00  0.00      BUTA
+ATOM      5  H21 BUT B   1      -0.461  -1.164  -0.898  1.00  0.00      BUTA
+ATOM      6  H22 BUT B   1      -0.461  -1.164   0.898  1.00  0.00      BUTA
+ATOM      7  C2  BUT B   1      -0.569  -0.516  -0.000  1.00  0.00      BUTA
+ATOM      8  H31 BUT B   1       0.461   1.164   0.898  1.00  0.00      BUTA
+ATOM      9  H32 BUT B   1       0.461   1.164  -0.898  1.00  0.00      BUTA
+ATOM     10  C3  BUT B   1       0.569   0.516  -0.000  1.00  0.00      BUTA
+ATOM     11  H41 BUT B   1       2.743   0.700  -0.000  1.00  0.00      BUTA
+ATOM     12  H42 BUT B   1       2.117  -0.731  -0.902  1.00  0.00      BUTA
+ATOM     13  H43 BUT B   1       2.117  -0.731   0.902  1.00  0.00      BUTA
+ATOM     14  C4  BUT B   1       1.971  -0.099   0.000  1.00  0.00      BUTA
+TER      15      BUTA     1
+END

@@ -1,0 +1,35 @@
+# This file was created Wed Apr 20 23:01:44 2022
+# Created by:
+#                      :-) GROMACS - gmx energy, 2019.4 (-:
+# 
+# Executable:   /home/sl302/softwares/GGMT_GMX/Intel_Compiled/gromacs-2019.4/bin/gmx_mpi
+# Data prefix:  /home/sl302/softwares/GGMT_GMX/Intel_Compiled/gromacs-2019.4
+# Working dir:  /home/chitresh/che_project/ethane
+# Command line:
+#   gmx_mpi energy -f em.edr -o potential.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Good gRace! Old Maple Actually Chews Slate
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(kJ/mol)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Potential"
+    0.000000  59665.386719
+    1.000000  26710.746094
+    2.000000  12197.681641
+    3.000000  6910.659668
+    4.000000  4441.299316
+    5.000000  3912.938721
+    6.000000  3400.143799
+    8.000000  3185.128906
+    9.000000  3172.330322
+   10.000000  3086.213623
+   12.000000  2868.558350
